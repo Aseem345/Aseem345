@@ -1,116 +1,152 @@
 <div align="center">
 
-
-
-Building thoughtful web experiences. Testing with purpose. Learning every day.
-
-<a href="https://mhdaseem.infinityfreeapp.com"><img alt="Visit portfolio" src="./assets/portfolio-button.png" width="230" /></a>  <a href="https://github.com/Aseem345?tab=repositories"><img alt="Explore GitHub projects" src="./assets/github-button.png" width="230" /></a>
-
-Web Development  ·  QA Automation  ·  Problem Solving  ·  Sri Lanka
-
-</div>
-
-👋 A little about me
-
-I'm Mhd Aseem (A.M.M. Aseem), an HNDIT student at SLIATE, a web developer, and an aspiring software professional with an interest in both building and testing applications.
-
-I enjoy turning ideas into responsive, practical web experiences. Alongside developing PHP/MySQL applications, I work on quality assurance using Selenium WebDriver, Java, TestNG, and Maven. I'm also expanding my full-stack workflow by learning React and Laravel.
-
-🎓 Education: Higher National Diploma in Information Technology (HNDIT), SLIATE
-
-🧩 Focus: Web applications, maintainable code, and software quality
-
-🌱 Currently exploring: React + Laravel, API integration, and improved Git workflows
-
-🤝 Beyond coding: Team leadership, hackathon participation, and collaboration
-
-🌐 My website: mhdaseem.infinityfreeapp.com
-
-🛠️ Technologies & tools
-
-<div align="center">
-
-
-
-</div>
-
-Frontend: HTML5 · CSS3 · JavaScript · Bootstrap · Tailwind CSS
-Backend & database: PHP · MySQL · PHPMailer
-QA & automation: Selenium WebDriver · Java · TestNG · Maven
-Development workflow: Git · GitHub · VS Code · WAMP · XAMPP
-Learning next: React · Laravel · REST API development
-
-🌱 Exploring next
-
-<div align="center">
-
-
-
-</div>
-
-🚀 Selected work
-
-Project
-
-Highlights
-
-Stack
-
-🌐 Personal Portfolio Website
-
-Responsive portfolio featuring database-driven content, an admin dashboard, and a contact section. View live website ↗
-
-PHP · MySQL · HTML · CSS · JavaScript · Bootstrap
-
-🛒 Online Laptop Store
-
-E-commerce project with user authentication, a shopping cart, an admin dashboard, and an AI chatbot integration.
-
-PHP · MySQL · Bootstrap · JavaScript
-
-💊 Pharmacy Management System
-
-Inventory, billing, sales, and administration features built for a pharmacy workflow.
-
-PHP · MySQL · HTML · CSS · JavaScript
-
-🧪 QA Automation Framework
-
-Automated tests for login, cart, and checkout flows, with regression testing and TestNG reports.
-
-Java · Selenium WebDriver · TestNG · Maven
-
-🔎 Code & updates: Explore my GitHub repositories. Project descriptions above reflect my portfolio/resume; source repositories and live demos are linked only where available.
-
-🔍 A closer look at my portfolio
-
-The portfolio website is more than a static page. The codebase includes an admin dashboard for managing profile information, education, experience, skills, projects, achievements, and blog posts. It also includes MySQL-backed contact messages and a PHP email-handling integration.
-
-This project has helped me work across frontend UI, backend logic, database design, and content management.
-
-📚 What I'm improving now
-
-LEARN  → React components · Laravel fundamentals · REST APIs
-BUILD  → Responsive interfaces · Database-driven features
-TEST   → Automated user flows · Reliable regression checks
-SHIP   → Git branches · Clear commits · Better documentation
-
-✨ Beyond the code
-
-My background includes hackathon team leadership, games captaincy, and prefect board activities. Those experiences shaped how I approach communication, accountability, and teamwork.
-
-I value clean interfaces, curiosity, and consistent progress—and I believe software quality should be part of development from the beginning.
-
-📫 Find me online
-
-<div align="center">
-
-🌐 Portfolio   •   💼 LinkedIn   •   🐙 GitHub   •   ✉️ Email
+<a href="https://mhdaseem.infinityfreeapp.com"><img src="./assets/hero-animated.gif" alt="Mhd Aseem | Animated portfolio welcome, orbiting portrait, and changing developer roles" width="100%" /></a>
 
 <br />
 
-Build with intention. Test with care. Keep growing.
+<a href="https://mhdaseem.infinityfreeapp.com"><img src="./assets/portfolio-button.png" alt="Visit My Portfolio" width="235" /></a> 
+<a href="https://github.com/Aseem345?tab=repositories"><img src="./assets/github-button.png" alt="Explore My GitHub Projects" width="235" /></a>
 
-Thanks for stopping by! 💜
+<br/><br/>
+
+WEB DEVELOPMENT   SOFTWARE TESTING   QA AUTOMATION   SRI LANKA
+
+</div>
+
+👨‍💻 Who am I?
+
+Hey there! I'm Mhd Aseem (A.M.M. Aseem) — an HNDIT student at SLIATE, web developer, and aspiring software professional. I love creating clean web experiences and making sure they work reliably through thoughtful testing.
+
+🔭 Building: Responsive, database-driven websites with PHP and MySQL.
+
+🧪 Testing: Learning and practising automation with Java, Selenium WebDriver, TestNG and Maven.
+
+🌱 Growing into full-stack: Learning React, Laravel and API development.
+
+🛠️ Workflow: Git, GitHub, Fork Git Client, VS Code, WAMP / XAMPP.
+
+🤝 Beyond code: Hackathon teamwork, leadership, problem-solving and continuous learning.
+
+🌐 Explore my full story: My portfolio website ↗
+
+⚡ My tech universe
+
+<div align="center">
+
+<img src="./assets/tech-marquee.gif" alt="Animated moving technology carousel inspired by my personal portfolio website" width="100%" />
+
+<br/>
+
+Frontend
+
+<img src="./assets/logos/html5.png" alt="HTML5 logo" width="102" />
+<img src="./assets/logos/css3.png" alt="CSS3 logo" width="102" />
+<img src="./assets/logos/javascript.png" alt="JavaScript logo" width="102" />
+<img src="./assets/logos/bootstrap.png" alt="Bootstrap logo" width="102" />
+<img src="./assets/logos/tailwindcss.png" alt="Tailwind CSS logo" width="102" />
+
+<br/><br/>
+
+Backend, Database & Testing
+
+<img src="./assets/logos/php.png" alt="PHP logo" width="102" />
+<img src="./assets/logos/mysql.png" alt="MySQL original brand logo" width="102" />
+<img src="./assets/logos/java.png" alt="Java logo" width="102" />
+<img src="./assets/logos/selenium.png" alt="Selenium logo" width="102" />
+
+<br/><br/>
+
+Version Control & Tools
+
+<img src="./assets/logos/git.png" alt="Git logo" width="102" />
+<img src="./assets/logos/github.png" alt="GitHub logo" width="102" />
+
+<br/>
+
+PHP · MySQL · Java · Selenium WebDriver · TestNG · Maven · PHPMailer · VS Code · Fork · WAMP · XAMPP
+
+</div>
+
+🌱 Next chapter — React + Laravel
+
+<div align="center">
+
+<img src="./assets/logos/react.png" alt="React original brand logo" width="116" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="./assets/logos/laravel.png" alt="Laravel original brand logo" width="116" />
+
+<br/>
+
+I am learning to connect React frontends with Laravel APIs and MySQL backends.
+
+</div>
+
+🚀 Things I've worked on
+
+Project
+
+What it covers
+
+Technologies
+
+🌐 My Personal Portfolio ↗
+
+Responsive portfolio with an admin dashboard, editable content, contact form and blog features
+
+PHP · MySQL · HTML · CSS · JavaScript
+
+🛒 Online Laptop Store
+
+E-commerce flows, authentication, shopping cart, admin features and chatbot integration
+
+PHP · MySQL · Bootstrap
+
+💊 Pharmacy Management System
+
+Inventory, billing, sales and admin workflows
+
+PHP · MySQL · JavaScript
+
+🧪 QA Automation Framework
+
+Automated login, cart and checkout test flows with reports
+
+Java · Selenium · TestNG · Maven
+
+These project descriptions come from my portfolio and resume. I have linked the live portfolio directly; other demos and source links can be added as they become public.
+
+🔬 Building AND testing
+
+I like to think beyond just making a page look good:
+
+PLAN      → Understand the problem and design the experience
+BUILD     → Make responsive interfaces and database-driven features
+TEST      → Check essential flows and catch regressions
+IMPROVE   → Refactor, document and learn from feedback
+SHIP      → Use Git branches, meaningful commits and clear READMEs
+
+My portfolio includes PHP + MySQL content management for profile details, education, skills, projects, achievements, blog posts and messages — a hands-on way to understand the entire application lifecycle.
+
+🎯 What I'm focused on now
+
+Full-stack development: React components + Laravel fundamentals + REST APIs.
+
+Testing practice: Writing maintainable Selenium automation and test reports.
+
+Software craftsmanship: Cleaner code, better Git practices and sensible security habits.
+
+Open-source readiness: Better project documentation and sharing useful code.
+
+🤝 Let's connect
+
+<div align="center">
+
+🌐 Portfolio  ·  💻 GitHub Repositories  ·  💼 LinkedIn
+
+<br />
+
+BUILD WITH INTENTION · TEST WITH CARE · KEEP GROWING
+
+Thanks for dropping by! ✨
 
 </div>
