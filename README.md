@@ -81,72 +81,68 @@ I am learning to connect React frontends with Laravel APIs and MySQL backends.
 
 </div>
 
-🚀 Things I've worked on
+🚀 Selected projects
 
-Project
+<div align="center">
 
-What it covers
+A selection of web development and software testing projects — from user-facing experiences to reliable automation.
 
-Technologies
+<table>
+<tr>
+<td width="50%" valign="top"><a href="https://mhdaseem.infinityfreeapp.com"><img src="./assets/project-cards/portfolio.png" alt="Personal Portfolio — PHP, MySQL, HTML, CSS and JavaScript. Dynamic content, admin dashboard, blog and contact form. Visit the live site." width="100%" /></a></td>
+<td width="50%" valign="top"><img src="./assets/project-cards/laptop.png" alt="Online Laptop Store — PHP, MySQL and Bootstrap. Shopping cart, authentication, admin workflows and chatbot integration." width="100%" /></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><img src="./assets/project-cards/pharmacy.png" alt="Pharmacy Management System — PHP, MySQL and JavaScript. Inventory, billing, sales and administration." width="100%" /></td>
+<td width="50%" valign="top"><img src="./assets/project-cards/qa.png" alt="QA Automation Framework — Java, Selenium WebDriver, TestNG and Maven. Login, cart and checkout test flows with reports." width="100%" /></td>
+</tr>
+</table>
 
-🌐 My Personal Portfolio ↗
+<a href="https://mhdaseem.infinityfreeapp.com"><img src="./assets/portfolio-button.png" alt="Visit my live portfolio" width="235" /></a>
 
-Responsive portfolio with an admin dashboard, editable content, contact form and blog features
+<sub>Portfolio and project descriptions reflect my portfolio and resume. Additional live demos and public source links can be added when available.</sub>
 
-PHP · MySQL · HTML · CSS · JavaScript
+</div>
 
-🛒 Online Laptop Store
+🔬 My workflow — build it, test it, improve it
 
-E-commerce flows, authentication, shopping cart, admin features and chatbot integration
+<div align="center">
 
-PHP · MySQL · Bootstrap
+<img src="./assets/dev-workflow.gif" alt="Animated five-step development lifecycle: PLAN, BUILD, TEST, IMPROVE, SHIP." width="100%" />
 
-💊 Pharmacy Management System
+<sub>I care about both how an application looks and how reliably it works.</sub>
 
-Inventory, billing, sales and admin workflows
+</div>
 
-PHP · MySQL · JavaScript
+<details>
+<summary><b>🔍 More about my development approach</b></summary>
 
-🧪 QA Automation Framework
+I start by understanding the requirement, build responsive and database-driven features, test important user journeys, improve code based on feedback, and commit changes with meaningful Git history. My PHP + MySQL portfolio also includes editable profile information, skills, projects, blog posts and contact messages.
 
-Automated login, cart and checkout test flows with reports
+</details>
 
-Java · Selenium · TestNG · Maven
+🎯 Currently focused on
 
-These project descriptions come from my portfolio and resume. I have linked the live portfolio directly; other demos and source links can be added as they become public.
+<div align="center">
 
-🔬 Building AND testing
+<img src="./assets/focus-board.png" alt="Four areas of focus: Full-stack React and Laravel; Selenium test automation; clean code and Git practices; open-source documentation and collaboration." width="100%" />
 
-I like to think beyond just making a page look good:
+Learning deliberately • Practising consistently • Building with purpose
 
-PLAN      → Understand the problem and design the experience
-BUILD     → Make responsive interfaces and database-driven features
-TEST      → Check essential flows and catch regressions
-IMPROVE   → Refactor, document and learn from feedback
-SHIP      → Use Git branches, meaningful commits and clear READMEs
-
-My portfolio includes PHP + MySQL content management for profile details, education, skills, projects, achievements, blog posts and messages — a hands-on way to understand the entire application lifecycle.
-
-🎯 What I'm focused on now
-
-Full-stack development: React components + Laravel fundamentals + REST APIs.
-
-Testing practice: Writing maintainable Selenium automation and test reports.
-
-Software craftsmanship: Cleaner code, better Git practices and sensible security habits.
-
-Open-source readiness: Better project documentation and sharing useful code.
+</div>
 
 🤝 Let's connect
 
 <div align="center">
 
-🌐 Portfolio  ·  💻 GitHub Repositories  ·  💼 LinkedIn
+<a href="https://mhdaseem.infinityfreeapp.com"><img src="./assets/portfolio-button.png" alt="Visit my portfolio website" width="220" /></a> 
+<a href="https://github.com/Aseem345?tab=repositories"><img src="./assets/github-button.png" alt="Explore my GitHub repositories" width="220" /></a> 
+<a href="https://www.linkedin.com/in/mohammad-aseem"><img src="./assets/linkedin-button.png" alt="Connect with me on LinkedIn" width="220" /></a>
 
-<br />
+<br/>
 
 BUILD WITH INTENTION · TEST WITH CARE · KEEP GROWING
 
-Thanks for dropping by! ✨
+Thanks for visiting! ✨
 
 </div>
